@@ -1,0 +1,25 @@
+This article by David Donoho shows the significant growth of data science over the past 5 decades and how data science came into existence from classical the domain of statistics however, the now-contemplated field of data science is a mix of statistics and machine learning. In the eyes of the author data science is a better academic enlargement of statistics and machine learning. 
+
+Since the University of Michigan has announced a $100 million for “Data Science Initiative (DSI)”, there has been many other universities that has come forth and supported forth with their own initiatives. Although, there always has been a controversy about Data Science “versus” Statistics and some statisticians has quoted “When physicists do mathematics, they don’t say they’re doing number science. They’re doing math. If you’re analyzing data, you’re doing statistics “anyhow In my opinion if a statistician is using numbers, they don’t call it mathematics, they call it statistics and in the similar fashion if we use statistics to analyze data and process it which is just 10 % of the job, we can call it Data Science.  
+
+John Tukey, who was a statistician prophesied in the year 1962 that something like today’s data science would come into existence in a few decades. In his article states four driving forces in the new data Science “1. The formal theories of statistics 2. Accelerating developments in computers and display devices 3. The challenge, in many fields, of more and ever larger bodies of data 4. The emphasis on quantification in an ever-wider variety of disciplines” since then there has been a number of researches over this topic but William S. Cleveland’s work proposed the best allocation of effort which is as follows: 
+     1. Multidisciplinary investigations (25%)         2. Models and Methods for Data (20%)           
+ 
+     3. Computing with Data (15%)                      4. Pedagogy(15%) 
+
+     5. Tool Evaluation (5%)                           6. Theory (20%) 
+
+The Common Task Framework provides the basic methodology which helped in many research which are now taken for granted for example -- Google Translate, smartphone touch ID,smartphone voice recognition. According to the author the CTF imposes numerous demands on workers in a field, The workers must deliver predictive models which can be evaluated by the CTF scoring procedure in question and They must therefore personally submit to the information technology discipline imposed by the CTF developers. The workers might even need to implement a custommade CTF for their problem; so they must both develop an information technology discipline for evaluation of scoring rules and they must obtain a dataset which can form the basis of the shared data resource at the heart of the CTF.
+
+The impact of machine learning has been of greater significance than anything else, it can be said to be an intersection between computer science and statistics through which we can find patterns and collect valuable insights from the data.
+
+Despite being many definations online, In my opinion Data Science cannot have a single defination as it is a combination of various components like statistics, machine learning, linear algebra, probability, deep learning   
+
+
+
+
+
+
+
+
+
