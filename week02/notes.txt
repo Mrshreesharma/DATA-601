@@ -1,0 +1,6 @@
+
+hw visualalizations are correct but data preparation for histogram data is not correct.
+lab file ? 
+
+hw 90
+lab 0
