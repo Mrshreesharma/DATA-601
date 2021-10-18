@@ -1,1 +1,5 @@
 part1: hw 100
+
+titles, text on graph? 
+
+part2: hw 85
